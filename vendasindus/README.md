@@ -1,4 +1,4 @@
-## Dashboard de vendas de uma industria metalmecânica
+## Dashboard de vendas de uma indústria metalmecânica
 
 Este relatório no formato de dashboard tem como objetivo apresentar os principais indicadores de vendas de uma indústria de usinagem de precisão, na qual trabalhei como Analista em melhoria contínua.
 
