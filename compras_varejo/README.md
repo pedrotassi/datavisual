@@ -9,3 +9,6 @@ Esse relatório no formato de dashboard tem como objetivo apresentar os principa
 * O total pago a cada fornecedor.
 
 Link para o [Dashboard de Compras](https://app.powerbi.com/view?r=eyJrIjoiZDhjMDM1YjAtY2M0OC00NzJmLTg4MzctMmM5MWE5NDVlNWIwIiwidCI6ImIzNzA1YzRmLWRkODItNDNlNC1iZWMwLWJkMDA2ZGEwM2E1YyJ9&pageName=ReportSection)
+
+
+Também deixo no repositório o dataset utilizado e o próprio arquivo .pbix para consulta.
